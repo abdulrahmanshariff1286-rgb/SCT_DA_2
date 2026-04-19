@@ -45,7 +45,7 @@ Upon execution, the pipeline provides immediate summary statistics:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abdulrahmanshariff1286-rgb/Reatail-Engine-Pipeline.git
+   git clone https://github.com/abdulrahmanshariff1286-rgb/Retail-Engine-Pipeline.git
    ```
 
 2. **Install dependencies:**
