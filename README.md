@@ -45,7 +45,7 @@ Upon execution, the pipeline provides immediate summary statistics:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/E-Commerce-Analytics-Pipeline.git
+   git clone https://github.com/abdulrahmanshariff1286-rgb/Reatail-Engine-Pipeline.git
    ```
 
 2. **Install dependencies:**
@@ -80,4 +80,3 @@ Upon execution, the pipeline provides immediate summary statistics:
 
 **Note:** This project was developed as part of a technical task for SkillCraft Technology.
 
-How would you like to expand this—should we add a section on how this data feeds into your Machine Learning models?
